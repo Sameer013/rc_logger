@@ -1,0 +1,134 @@
+2022-12-13 19:59:26,324 Syncup started
+2022-12-13 19:59:26,373 Starting new HTTP connection (1): jps.symphonytek.com:80
+2022-12-13 19:59:27,445 http://jps.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2022-12-13 19:59:27,446 Unauthorized upload
+2022-12-13 20:09:10,998 Syncup started
+2022-12-13 20:09:11,046 Starting new HTTP connection (1): jps.symphonytek.com:80
+2022-12-13 20:09:16,565 http://jps.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2022-12-13 20:09:16,566 Syncup finished
+2023-08-02 12:04:02,238 Syncup started
+2023-08-02 12:04:02,270 Starting new HTTP connection (1): jps.symphonytek.com:80
+2023-08-02 12:04:03,664 http://jps.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-08-02 12:04:03,664 Error
+Traceback (most recent call last):
+  File "/home/dummy/./putdata.py", line 61, in <module>
+    data=json.loads(r.text)
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-08-02 12:07:22,576 Syncup started
+2023-08-02 12:07:22,608 Starting new HTTP connection (1): jps.symphonytek.com:80
+2023-08-02 12:07:24,385 http://jps.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-08-02 12:07:24,385 Error
+Traceback (most recent call last):
+  File "/home/dummy/./putdata.py", line 61, in <module>
+    data=json.loads(r.text)
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-08-02 12:09:20,041 Syncup started
+2023-08-02 12:09:20,073 Starting new HTTP connection (1): jps.symphonytek.com:80
+2023-08-02 12:09:21,856 http://jps.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-08-02 12:09:21,856 Error
+Traceback (most recent call last):
+  File "/home/dummy/./putdata.py", line 61, in <module>
+    data=json.loads(r.text)
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-08-02 12:13:06,249 Syncup started
+2023-08-02 12:13:06,280 Starting new HTTP connection (1): jps.symphonytek.com:80
+2023-08-02 12:13:08,061 http://jps.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-08-02 12:13:46,106 Syncup started
+2023-08-02 12:13:46,137 Starting new HTTP connection (1): jps.symphonytek.com:80
+2023-08-02 12:13:47,852 http://jps.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-08-02 12:13:47,852 Error
+Traceback (most recent call last):
+  File "/home/dummy/./putdata.py", line 61, in <module>
+    data=json.loads(r.text)
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-08-02 12:23:39,992 Syncup started
+2023-08-02 12:23:40,023 Starting new HTTP connection (1): jps.symphonytek.com:80
+2023-08-02 12:23:42,014 http://jps.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-08-02 12:23:42,014 Error
+Traceback (most recent call last):
+  File "/home/dummy/./putdata.py", line 61, in <module>
+    data=json.loads(r.text)
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-08-02 12:24:16,495 Syncup started
+2023-08-02 12:24:16,526 Starting new HTTP connection (1): jps.symphonytek.com:80
+2023-08-02 12:24:18,246 http://jps.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-08-02 12:24:18,247 Error
+Traceback (most recent call last):
+  File "/home/dummy/./putdata.py", line 61, in <module>
+    data=json.loads(r.text)
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-08-02 12:24:45,199 Syncup started
+2023-08-02 12:24:45,229 Starting new HTTP connection (1): jps.symphonytek.com:80
+2023-08-02 12:25:04,718 http://jps.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-08-02 12:25:04,720 Syncup finished
+2023-12-13 13:01:42,666 Syncup started
+2023-12-13 13:03:19,398 Syncup started
+2023-12-13 13:03:19,480 Starting new HTTP connection (1): ssvm.symphonytek.com:80
+2023-12-13 13:03:20,027 http://ssvm.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-12-13 13:03:20,029 Error
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\New folder\dummy\putdata.py", line 59, in <module>
+    data=json.loads(r.text)
+  File "C:\Users\Sania\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Sania\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Sania\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-12-13 13:06:39,626 Syncup started
+2023-12-13 13:06:39,703 Starting new HTTP connection (1): ssvm.symphonytek.com:80
+2023-12-13 13:06:40,385 http://ssvm.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-12-13 13:06:40,386 Exception : SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+			on duplicate key update STUDID='86/2021' ,ADMNO='SANJEET KUMAR SINHAm xyz' at line 2
+2023-12-13 13:10:41,870 Syncup started
+2023-12-13 13:17:54,073 Syncup started
+2023-12-13 13:17:54,149 Starting new HTTP connection (1): ssvm.symphonytek.com:80
+2023-12-13 13:17:54,746 http://ssvm.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-12-13 13:17:54,747 Exception : SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+			on duplicate key update ADMNO='86/2021',NAME='SANJEET KUMAR SINHAm xyz',C' at line 2
+2023-12-13 13:20:16,268 Syncup started
+2023-12-13 13:20:16,332 Starting new HTTP connection (1): ssvm.symphonytek.com:80
+2023-12-13 13:20:16,913 http://ssvm.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-12-13 13:20:16,914 Exception : SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+			on duplicate key update ADMNO='86/2021',NAME='SANJEET KUMAR SINHAm xyz',C' at line 2
+2023-12-13 13:23:24,714 Syncup started
+2023-12-13 13:23:24,790 Starting new HTTP connection (1): ssvm.symphonytek.com:80
+2023-12-13 13:23:25,509 http://ssvm.symphonytek.com:80 "POST /fee/uploadsql.php HTTP/1.1" 200 None
+2023-12-13 13:23:25,524 Syncup finished
